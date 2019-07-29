@@ -7,5 +7,7 @@ My First program implementing Mouse handlers and events.
 <ul>- The fastest that I have gotten up to is 0.02 seconds</ul>
 <p>How Many Clicks?</p>
 <ul>- This sets how many clicks do you want till process ends</ul>
+<p>Press Start./p>
+<p>Click anywhere that you want to start the process on./p>
 <h1> WARNING </h1>
 Can not stop  until process is finished
